@@ -44,7 +44,7 @@ body {
     color: #E86F3D;
   }
   
-  /* Welcome Section */
+  
   .welcome-section {
     background-image: url('images/celso-405219.jpg');
     background-size: cover;
@@ -100,7 +100,7 @@ body {
     margin-bottom: 5px;
   }
   
-  /* Tree Pictures */
+ 
   #tree-pictures {
     display: flex;
     gap: 20px;
@@ -115,14 +115,14 @@ body {
     height: auto;
   }
   
-  /* Footer */
+
   footer {
     padding-left: 20px;
     font-size: 16px;
     color: white;
   }
   
-  /* Kids Section */
+
   .kids-layout {
     display: flex;
     justify-content: space-between;
@@ -165,7 +165,7 @@ body {
     color: #E86F3D;
   }
   
-  /* Teachers Section */
+
   .teachers-layout {
     display: flex;
     justify-content: space-between;
@@ -248,7 +248,7 @@ body {
     margin-bottom: 15px;
   }
   
-  /* Content with image */
+
   .container {
     display: flex;
     flex-wrap: wrap;
@@ -286,7 +286,7 @@ body {
     color: #E86F3D;
   }
   
-  /* Visit Page */
+
   .visit-page {
     max-width: 900px;
     margin: 40px auto;
@@ -315,7 +315,7 @@ body {
     margin-bottom: 5px;
   }
   
-  /* Responsive */
+
   @media (max-width: 768px) {
     .navbar {
       flex-direction: column;
